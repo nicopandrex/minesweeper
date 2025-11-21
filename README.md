@@ -5,7 +5,7 @@ A simple minesweeper game made for my Intermediate Programming class Freshman Ye
 Written in Java using OOP practices
 
 # How to Play
-Played like normal minesweeper, use right click to flag bombs, flag all 10 of the bombs correctly to win
+Run MineSweeper.java to play. Played like normal minesweeper, use right click to flag bombs, flag all 10 of the bombs correctly to win
 
 # Preview
 
